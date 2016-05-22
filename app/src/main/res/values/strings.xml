@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="imagebutton">imageButton</string>
+    <string name="_zero">0</string>
+    <string name="create_counter">Create Counter</string>
+</resources>
